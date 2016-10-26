@@ -72,3 +72,6 @@ Docker在B站的实施之路  http://dockone.io/article/1724
 
 联想企业网盘基于Docker构建分布式部署框架实践 http://dockone.io/article/1649
 
+爱奇艺 App Engine实践  http://dockone.io/article/1557
+
+
