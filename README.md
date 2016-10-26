@@ -15,4 +15,27 @@ Docker在雪球的实践 http://www.infoq.com/cn/articles/docker-in-xueqiu
 
 Docker简明教程 https://community.qingcloud.com/topic/394/docker简明教程
 
+DockerAPI(英文) https://docs.docker.com/engine/reference/api/docker_remote_api/
+
+Docker原生Swarm系列： 
+      https://guai.im/2016/08/01/docker-swarm-in-action-01/
+      https://guai.im/2016/08/02/docker-swram-in-aciton-02/
+      https://guai.im/2016/08/08/docker-swram-in-aciton-03/
+      https://guai.im/2016/08/10/docker-swram-in-aciton-04/
+      https://guai.im/2016/09/19/docker-swram-in-aciton-05/
+      https://guai.im/2016/09/29/docker-swram-in-aciton-06/
+      
+ 
+###大厂实践
+
+基于Docker的云处理服务平台  http://www.dockerinfo.net/3266.html
+
+Docker存储驱动详细介绍    http://www.dockerinfo.net/3233.html
+
+恒生金融交易系统的Docker化实践 http://www.dockerinfo.net/3195.html
+
+PPTV聚力传媒的Docker与DevOps实践  http://www.dockerinfo.net/3037.html
+
+网易蜂巢容器云Docker研发实践   http://www.dockerinfo.net/3037.html
+
 
