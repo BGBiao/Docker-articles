@@ -54,6 +54,8 @@ Docker监控方案之(CIG)方案 https://my.oschina.net/fufangchun/blog/718382
 
 PPTV聚力传媒的Docker与DevOps实践  http://www.dockerinfo.net/3037.html
 
+PPTV Docker集群项目(OAK)介绍  http://dockone.io/article/1673
+
 网易蜂巢容器云Docker研发实践   http://www.dockerinfo.net/3037.html
 
 Docker在雪球的实践 http://www.infoq.com/cn/articles/docker-in-xueqiu
