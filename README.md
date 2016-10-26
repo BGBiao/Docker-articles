@@ -1,5 +1,5 @@
 ## Docker-articles
-主要分享docker相关的文章以及观点。
+本篇主要分享docker相关的文章以及观点。
 
 ###Docker基础以及入门实践
 
