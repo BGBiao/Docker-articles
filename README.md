@@ -13,9 +13,15 @@ DockerAPI(英文) https://docs.docker.com/engine/reference/api/docker_remote_api
 
 Docker原生网络技术简介  http://www.dockerinfo.net/2973.html
 
+三种容器网络方案  http://www.dockerinfo.net/3154.html
+
 Docker存储驱动详细介绍    http://www.dockerinfo.net/3233.html
 
-Docker存储驱动的选择 http://www.dockerinfo.net/2951.html
+Docker存储驱动的选型建议 http://www.dockerinfo.net/2951.html
+
+Docker 存储空间扩容  http://dockone.io/article/1730 
+
+深入浅出swarm  http://blog.daocloud.io/swarm_analysis_part1/
 
 Docker原生Swarm系列： 
 
@@ -57,3 +63,10 @@ Docker在雪球的实践 http://www.infoq.com/cn/articles/docker-in-xueqiu
 基于Docker的paas平台建设实践  http://www.dockerinfo.net/2905.html
 
 乐视基于Docker的RDS  http://www.dockerinfo.net/2740.html
+
+从零开始搭建Jenkins+Docker自动化集成环境  http://www.dockerinfo.net/2457.html
+
+Docker在B站的实施之路  http://dockone.io/article/1724
+
+联想企业网盘基于Docker构建分布式部署框架实践 http://dockone.io/article/1649
+
