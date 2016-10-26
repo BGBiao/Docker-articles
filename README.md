@@ -18,17 +18,18 @@ Docker存储驱动详细介绍    http://www.dockerinfo.net/3233.html
 Docker存储驱动的选择 http://www.dockerinfo.net/2951.html
 
 Docker原生Swarm系列： 
-      https://guai.im/2016/08/01/docker-swarm-in-action-01/
+
+https://guai.im/2016/08/01/docker-swarm-in-action-01/
       
-      https://guai.im/2016/08/02/docker-swram-in-aciton-02/
+https://guai.im/2016/08/02/docker-swram-in-aciton-02/
       
-      https://guai.im/2016/08/08/docker-swram-in-aciton-03/
+https://guai.im/2016/08/08/docker-swram-in-aciton-03/
       
-      https://guai.im/2016/08/10/docker-swram-in-aciton-04/
+https://guai.im/2016/08/10/docker-swram-in-aciton-04/
       
-      https://guai.im/2016/09/19/docker-swram-in-aciton-05/
+https://guai.im/2016/09/19/docker-swram-in-aciton-05/
       
-      https://guai.im/2016/09/29/docker-swram-in-aciton-06/
+https://guai.im/2016/09/29/docker-swram-in-aciton-06/
       
 ###Docker容器监控系列
 
