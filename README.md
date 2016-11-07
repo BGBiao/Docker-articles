@@ -45,6 +45,9 @@ Docker监控之kubernetes方案(HIG) https://my.oschina.net/fufangchun/blog/7305
 
 Docker监控方案之(CIG)方案 https://my.oschina.net/fufangchun/blog/718382
  
+###Docker周边技术
+
+Hyper： 基于Hypervisor的Docker引擎 http://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=205789473&idx=1&sn=50ac4a88cde3820706735b653bee1e4d&scene=5#rd
  
 ###大厂实践
 
