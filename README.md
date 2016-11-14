@@ -49,6 +49,12 @@ Docker监控方案之(CIG)方案 https://my.oschina.net/fufangchun/blog/718382
 
 Hyper： 基于Hypervisor的Docker引擎 http://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=205789473&idx=1&sn=50ac4a88cde3820706735b653bee1e4d&scene=5#rd
  
+ 
+###企业级Docker镜像中心
+Vmware开源企业级镜像中心Harbor   http://www.xf80.com/2016/10/10/docker-harbor/
+企业级Docker Registry开源工具Harbor的介绍以及使用指南   https://my.oschina.net/xxbAndy/blog/786712
+
+
 ###大厂实践
 
 基于Docker的云处理服务平台  http://www.dockerinfo.net/3266.html
